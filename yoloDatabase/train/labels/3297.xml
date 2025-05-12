@@ -1,0 +1,26 @@
+<annotation>
+	<folder>A3001-3500</folder>
+	<filename>3297.jpg</filename>
+	<path>D:\projects\A3001-3500\3297.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>53</ymin>
+			<xmax>214</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>

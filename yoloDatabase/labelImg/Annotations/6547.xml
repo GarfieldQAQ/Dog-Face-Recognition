@@ -1,0 +1,26 @@
+<annotation>
+	<folder>A6001-7000</folder>
+	<filename>6547.jpg</filename>
+	<path>D:\projects\A6001-7000\6547.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>596</width>
+		<height>402</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>44</ymin>
+			<xmax>351</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

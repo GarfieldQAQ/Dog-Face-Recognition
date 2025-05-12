@@ -1,0 +1,26 @@
+<annotation>
+	<folder>A7001-8000</folder>
+	<filename>7890.jpg</filename>
+	<path>D:\projects\A7001-8000\7890.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>502</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>40</ymin>
+			<xmax>363</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

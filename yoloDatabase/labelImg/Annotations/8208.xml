@@ -1,0 +1,26 @@
+<annotation>
+	<folder>A8001-10000</folder>
+	<filename>8208.jpg</filename>
+	<path>D:\projects\A8001-10000\8208.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>111</ymin>
+			<xmax>382</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

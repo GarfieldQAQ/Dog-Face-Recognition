@@ -1,0 +1,12 @@
+cloudpickle==3.1.1
+numpy==1.26.4
+opencv_contrib_python==4.8.1.78
+opencv_python_headless==4.11.0.86
+Pillow==11.2.1
+PyQt5==5.15.11
+PyQt5_sip==12.17.0
+scikit_learn==1.6.1
+torch==2.5.1
+torchvision==0.20.1
+tqdm==4.67.1
+ultralytics==8.3.111

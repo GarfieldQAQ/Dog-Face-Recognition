@@ -1,0 +1,26 @@
+<annotation>
+	<folder>A</folder>
+	<filename>795.jpg</filename>
+	<path>D:\学生科研项目\A\795.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>374</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>10</ymin>
+			<xmax>361</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

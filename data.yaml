@@ -1,0 +1,7 @@
+train: /mnt/c/users/cyber/Desktop/work3/database/train/images  # train images (relative to 'path') 4 images
+val:   /mnt/c/users/cyber/Desktop/work3/database/val/images  # val images (relative to 'path') 4 images
+
+nc: 1
+
+# class names
+names: ['dogface']

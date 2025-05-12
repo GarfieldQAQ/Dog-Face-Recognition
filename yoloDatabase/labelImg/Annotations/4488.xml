@@ -1,0 +1,26 @@
+<annotation>
+	<folder>A4301-4500</folder>
+	<filename>4488.jpg</filename>
+	<path>D:\projects\A4301-4500\4488.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>753</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>25</ymin>
+			<xmax>487</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

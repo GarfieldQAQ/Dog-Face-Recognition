@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages（1）</folder>
+	<filename>1051.jpg</filename>
+	<path>C:\Users\a\Desktop\电脑文件\JPEGImages（1）\1051.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>236</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>53</ymin>
+			<xmax>145</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

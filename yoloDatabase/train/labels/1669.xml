@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>1669.jpg</filename>
+	<path>D:\学生科研项目\2\1669.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>335</width>
+		<height>381</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>39</ymin>
+			<xmax>273</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

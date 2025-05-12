@@ -1,0 +1,26 @@
+<annotation>
+	<folder>A3501-4000</folder>
+	<filename>3846.jpg</filename>
+	<path>D:\projects\A3501-4000\3846.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>71</ymin>
+			<xmax>415</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

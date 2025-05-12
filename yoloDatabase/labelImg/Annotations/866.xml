@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages（1）</folder>
+	<filename>866.jpg</filename>
+	<path>C:\Users\a\Desktop\电脑文件\JPEGImages（1）\866.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>43</ymin>
+			<xmax>497</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

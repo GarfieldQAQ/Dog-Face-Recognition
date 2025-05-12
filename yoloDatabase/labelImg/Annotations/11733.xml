@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages（1）</folder>
+	<filename>1316.jpg</filename>
+	<path>C:\Users\a\Desktop\电脑文件\JPEGImages（1）\1316.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>618</width>
+		<height>494</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>28</ymin>
+			<xmax>459</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

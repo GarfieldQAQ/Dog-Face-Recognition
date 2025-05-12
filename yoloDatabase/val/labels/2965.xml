@@ -1,0 +1,26 @@
+<annotation>
+	<folder>狗狗照片</folder>
+	<filename>2965.jpg</filename>
+	<path>D:\学生科研项目\狗狗照片\2965.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>656</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>55</ymin>
+			<xmax>460</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>
