@@ -1,6 +1,6 @@
 # Dog-Face-Recognition
 
-< img src="./ui/doggy.jpg" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/GarfieldQAQ/Dog-Face-Recognition/refs/heads/main/ui/doggy.jpg" alt="drawing" width="200"/>
 # 简述：
 该工程实现了识别狗狗图像区别其是否在登记名册中(诗人握持
 训练了抓取狗脸的yolo权重文件
