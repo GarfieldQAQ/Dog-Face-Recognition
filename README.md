@@ -9,8 +9,10 @@
 使用PCA做数据降维
 OneclassSVM 实现是否在库中的判断
 SVM分类确定狗狗是哪一只狗
+
 # 涉及的模型：
 **YOLOv12 + ResNet + OneclassSVM + SVM**
+
 # 主要工作流
 ## YOLOv12
 ### 前期准备
@@ -21,9 +23,9 @@ SVM分类确定狗狗是哪一只狗
 将狗脸数据集调整大小后直接输入预训练的Resnet模型获得1000维特征向量
 ### Oneclass SVM
 
-
 # 文件tree:
 在windows下tree命令并不能设置tree深度，具体文件树详见==tree.txt==
+
 # 部署环境:
 推荐使用虚拟环境
 ## conda创建py3.11虚拟环境
@@ -31,6 +33,7 @@ SVM分类确定狗狗是哪一只狗
 conda create --name "环境的名字" python=3.11
 ```
 注意自己修改"环境名字"字段
+
 ## 激活虚拟环境
 ```bash
 conda activate "环境的名字"
@@ -39,9 +42,11 @@ conda activate "环境的名字"
 ```bash
 conda activate "test"
 ```
+
 ## 下载依赖
 ```bash
 pip install -r requirements.txt
 ```
+
 ## 运行
 进入ui文件夹，运行 window.py 即可
